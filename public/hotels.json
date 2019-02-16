@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Abbaye de la Bussière",
+        "star": "1 étoile",
+        "id": "22926",
+        "url": "https://www.relaischateaux.com/fr/france/bussiere-cote-d-or-la-bussiere-sur-ouche"
+    },
+    {
+        "name": "Auberge des Glazicks",
+        "star": "2 étoiles",
+        "id": "95084",
+        "url": "https://www.relaischateaux.com/fr/france/auberge-des-glazicks-plomodiern"
+    },
+    {
+        "name": "Georges Blanc Parc & Spa",
+        "star": "3 étoiles",
+        "id": "22661",
+        "url": "https://www.relaischateaux.com/fr/france/blanc-ain-vonnas"
+    },
+    {
+        "name": "Grand Hôtel de Cala Rossa & Spa",
+        "star": "1 étoile",
+        "id": "22721",
+        "url": "https://www.relaischateaux.com/fr/france/calarossa-corse-porto-vecchio"
+    },
+    {
+        "name": "Hameau Albert Ier",
+        "star": "2 étoiles",
+        "id": "22734",
+        "url": "https://www.relaischateaux.com/fr/france/albert-haute-savoie-chamonix-mont-blanc"
+    },
+    {
+        "name": "Hostellerie La Briqueterie",
+        "star": "1 étoile",
+        "id": "22937",
+        "url": "https://www.relaischateaux.com/fr/france/briqueterie-marne-vinay"
+    },
+    {
+        "name": "Hôtel & Spa du Castellet",
+        "star": "3 étoiles",
+        "id": "22922",
+        "url": "https://www.relaischateaux.com/fr/france/castellet-var-le-castellet"
+    },
+    {
+        "name": "Hôtel Le Chabichou Restaurants & Spa",
+        "star": "2 étoiles",
+        "id": "58358",
+        "url": "https://www.relaischateaux.com/fr/france/chabichou-savoie-courchevel-1850"
+    },
+    {
+        "name": "Hôtel Restaurant Clos des Sens - Laurent PETIT",
+        "star": "2 étoiles",
+        "id": "74997",
+        "url": "https://www.relaischateaux.com/fr/france/clos-des-sens-haute-savoie"
+    },
+    {
+        "name": "Hôtel et Restaurant Régis et Jacques Marcon",
+        "star": "3 étoiles",
+        "id": "noSynId",
+        "url": "https://www.relaischateaux.com/fr/france/cimes-haute-loire-saint-bonnet-le-froid"
+    },
+    {
+        "name": "Le Petit Nice-Passedat",
+        "star": "3 étoiles",
+        "id": "22749",
+        "url": "https://www.relaischateaux.com/fr/france/passedat-bouches-du-rhone-marseille"
+    },
+    {
+        "name": "Les Prés d’Eugénie - Maison Guérard",
+        "star": "3 étoiles",
+        "id": "22595",
+        "url": "https://www.relaischateaux.com/fr/france/guerard-landes-eugenie-les-bains"
+    },
+    {
+        "name": "Maison Decoret",
+        "star": "1 étoile",
+        "id": "71632",
+        "url": "https://www.relaischateaux.com/fr/france/decoret-allier-vichy"
+    },
+    {
+        "name": "Maison Doucet",
+        "star": "1 étoile",
+        "id": "71700",
+        "url": "https://www.relaischateaux.com/fr/france/hotel-laposte-doucet-saone-et-loire"
+    },
+    {
+        "name": "Maison Pic",
+        "star": "3 étoiles",
+        "id": "22766",
+        "url": "https://www.relaischateaux.com/fr/france/pic-drome-valence"
+    },
+    {
+        "name": "Relais de la Poste",
+        "star": "2 étoiles",
+        "id": "22765",
+        "url": "https://www.relaischateaux.com/fr/france/poste-landes-magescq"
+    },
+    {
+        "name": "Restaurant Serge Vieira",
+        "star": "2 étoiles",
+        "id": "noSynId",
+        "url": "https://www.relaischateaux.com/fr/france/vieira-cantal"
+    },
+    {
+        "name": "Troisgros",
+        "star": "3 étoiles",
+        "id": "22663",
+        "url": "https://www.relaischateaux.com/fr/france/troisgros-loire-ouches"
+    },
+    {
+        "name": "Villa René Lalique",
+        "star": "2 étoiles",
+        "id": "noSynId",
+        "url": "https://www.relaischateaux.com/fr/france/lalique-bas-rhin"
+    }
+]

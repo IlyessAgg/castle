@@ -1,0 +1,242 @@
+[
+    {
+        "name": "Abbaye de la Bussière",
+        "star": "1 étoile",
+        "url": "https://www.relaischateaux.com/fr/france/bussiere-cote-d-or-la-bussiere-sur-ouche",
+        "prices": {
+            "16/2": "US$255",
+            "23/2": "US$413",
+            "2/3": "US$289",
+            "9/3": "US$289",
+            "16/3": "US$289",
+            "23/3": "US$289",
+            "30/3": "US$413",
+            "6/4": "US$255"
+        }
+    },
+    {
+        "name": "Auberge des Glazicks",
+        "star": "2 étoiles",
+        "url": "https://www.relaischateaux.com/fr/france/auberge-des-glazicks-plomodiern",
+        "prices": {
+            "16/2": "unavailable",
+            "23/2": "unavailable",
+            "2/3": "unavailable",
+            "9/3": "unavailable",
+            "16/3": "unavailable",
+            "23/3": "unavailable",
+            "30/3": "unavailable",
+            "6/4": "unavailable"
+        }
+    },
+    {
+        "name": "Georges Blanc Parc & Spa",
+        "star": "3 étoiles",
+        "url": "https://www.relaischateaux.com/fr/france/blanc-ain-vonnas",
+        "prices": {
+            "16/2": "unavailable",
+            "23/2": "US$548",
+            "2/3": "US$339",
+            "9/3": "US$339",
+            "16/3": "US$537",
+            "23/3": "US$328",
+            "30/3": "US$328",
+            "6/4": "US$328"
+        }
+    },
+    {
+        "name": "Grand Hôtel de Cala Rossa & Spa",
+        "star": "1 étoile",
+        "url": "https://www.relaischateaux.com/fr/france/calarossa-corse-porto-vecchio",
+        "prices": {
+            "16/2": "unavailable",
+            "23/2": "unavailable",
+            "2/3": "unavailable",
+            "9/3": "unavailable",
+            "16/3": "unavailable",
+            "23/3": "unavailable",
+            "30/3": "unavailable",
+            "6/4": "unavailable"
+        }
+    },
+    {
+        "name": "Hameau Albert Ier",
+        "star": "2 étoiles",
+        "url": "https://www.relaischateaux.com/fr/france/albert-haute-savoie-chamonix-mont-blanc",
+        "prices": {
+            "16/2": "US$627",
+            "23/2": "unavailable",
+            "2/3": "unavailable",
+            "9/3": "unavailable",
+            "16/3": "unavailable",
+            "23/3": "unavailable",
+            "30/3": "unavailable",
+            "6/4": "unavailable"
+        }
+    },
+    {
+        "name": "Hostellerie La Briqueterie",
+        "star": "1 étoile",
+        "url": "https://www.relaischateaux.com/fr/france/briqueterie-marne-vinay",
+        "prices": {
+            "16/2": "unavailable",
+            "23/2": "unavailable",
+            "2/3": "unavailable",
+            "9/3": "US$289",
+            "16/3": "US$311",
+            "23/3": "US$396",
+            "30/3": "US$305",
+            "6/4": "US$289"
+        }
+    },
+    {
+        "name": "Hôtel & Spa du Castellet",
+        "star": "3 étoiles",
+        "url": "https://www.relaischateaux.com/fr/france/castellet-var-le-castellet",
+        "prices": {
+            "16/2": "unavailable",
+            "23/2": "US$279",
+            "2/3": "US$279",
+            "9/3": "US$303",
+            "16/3": "US$279",
+            "23/3": "US$557",
+            "30/3": "US$562",
+            "6/4": "US$303"
+        }
+    },
+    {
+        "name": "Hôtel Le Chabichou Restaurants & Spa",
+        "star": "2 étoiles",
+        "url": "https://www.relaischateaux.com/fr/france/chabichou-savoie-courchevel-1850",
+        "prices": {
+            "16/2": "unavailable",
+            "23/2": "unavailable",
+            "2/3": "US$1175",
+            "9/3": "unavailable",
+            "16/3": "unavailable",
+            "23/3": "unavailable",
+            "30/3": "unavailable",
+            "6/4": "US$531"
+        }
+    },
+    {
+        "name": "Hôtel Restaurant Clos des Sens - Laurent PETIT",
+        "star": "2 étoiles",
+        "url": "https://www.relaischateaux.com/fr/france/clos-des-sens-haute-savoie",
+        "prices": {
+            "16/2": "unavailable",
+            "23/2": "unavailable",
+            "2/3": "unavailable",
+            "9/3": "unavailable",
+            "16/3": "unavailable",
+            "23/3": "unavailable",
+            "30/3": "unavailable",
+            "6/4": "unavailable"
+        }
+    },
+    {
+        "name": "Le Petit Nice-Passedat",
+        "star": "3 étoiles",
+        "url": "https://www.relaischateaux.com/fr/france/passedat-bouches-du-rhone-marseille",
+        "prices": {
+            "16/2": "US$249",
+            "23/2": "US$398",
+            "2/3": "US$293",
+            "9/3": "US$572",
+            "16/3": "US$455",
+            "23/3": "US$455",
+            "30/3": "US$455",
+            "6/4": "US$456"
+        }
+    },
+    {
+        "name": "Les Prés d’Eugénie - Maison Guérard",
+        "star": "3 étoiles",
+        "url": "https://www.relaischateaux.com/fr/france/guerard-landes-eugenie-les-bains",
+        "prices": {
+            "16/2": "US$882",
+            "23/2": "US$452",
+            "2/3": "US$452",
+            "9/3": "US$396",
+            "16/3": "US$526",
+            "23/3": "US$757",
+            "30/3": "US$452",
+            "6/4": "US$396"
+        }
+    },
+    {
+        "name": "Maison Decoret",
+        "star": "1 étoile",
+        "url": "https://www.relaischateaux.com/fr/france/decoret-allier-vichy",
+        "prices": {
+            "16/2": "unavailable",
+            "23/2": "unavailable",
+            "2/3": "unavailable",
+            "9/3": "unavailable",
+            "16/3": "US$209",
+            "23/3": "unavailable",
+            "30/3": "US$173",
+            "6/4": "US$173"
+        }
+    },
+    {
+        "name": "Maison Doucet",
+        "star": "1 étoile",
+        "url": "https://www.relaischateaux.com/fr/france/hotel-laposte-doucet-saone-et-loire",
+        "prices": {
+            "16/2": "US$366",
+            "23/2": "US$186",
+            "2/3": "US$186",
+            "9/3": "US$186",
+            "16/3": "US$186",
+            "23/3": "US$168",
+            "30/3": "US$168",
+            "6/4": "US$168"
+        }
+    },
+    {
+        "name": "Maison Pic",
+        "star": "3 étoiles",
+        "url": "https://www.relaischateaux.com/fr/france/pic-drome-valence",
+        "prices": {
+            "16/2": "unavailable",
+            "23/2": "US$385",
+            "2/3": "US$606",
+            "9/3": "unavailable",
+            "16/3": "US$413",
+            "23/3": "US$458",
+            "30/3": "US$509",
+            "6/4": "unavailable"
+        }
+    },
+    {
+        "name": "Relais de la Poste",
+        "star": "2 étoiles",
+        "url": "https://www.relaischateaux.com/fr/france/poste-landes-magescq",
+        "prices": {
+            "16/2": "US$249",
+            "23/2": "US$249",
+            "2/3": "US$249",
+            "9/3": "US$204",
+            "16/3": "US$224",
+            "23/3": "US$224",
+            "30/3": "US$224",
+            "6/4": "US$249"
+        }
+    },
+    {
+        "name": "Troisgros",
+        "star": "3 étoiles",
+        "url": "https://www.relaischateaux.com/fr/france/troisgros-loire-ouches",
+        "prices": {
+            "16/2": "unavailable",
+            "23/2": "unavailable",
+            "2/3": "unavailable",
+            "9/3": "unavailable",
+            "16/3": "unavailable",
+            "23/3": "unavailable",
+            "30/3": "unavailable",
+            "6/4": "unavailable"
+        }
+    }
+]
