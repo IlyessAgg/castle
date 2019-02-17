@@ -19,52 +19,6 @@ async function scraping(){
 	return urls;
 }
 
-// Test function on 1 URL. * Pay no attention *
-async function checkHotRest(){
-	var hotels = [];
-	//await request('https://www.relaischateaux.com/us/france/flocons-haute-savoie-megeve', (error, response,html) => {
-		
-		(async () => {
-			//const response = await fetch("https://www.relaischateaux.com/fr/popin/availability/check?month=2019-3&idEntity="+id+"%7C%7CSTD1DG&pax=2&room=1", {"credentials":"include","headers":{"accept":"application/json, text/javascript, /; q=0.01","accept-language":"fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7","x-requested-with":"XMLHttpRequest"},"referrer":"https://www.relaischateaux.com/fr/france/castelclara-morbihan-bangor","referrerPolicy":"origin-when-cross-origin","body":null,"method":"GET","mode":"cors"});
-			var jsonO = await (await fetch("https://www.relaischateaux.com/fr/popin/availability/check?month=2019-3&idEntity=22734%7C%7CSTD1DG&pax=2&room=1", {"credentials":"include","headers":{"accept":"application/json, text/javascript, /; q=0.01","accept-language":"fr-FR,fr;q=0.9,en-US;q=0.8,en;q=0.7","x-requested-with":"XMLHttpRequest"},"referrer":"https://www.relaischateaux.com/fr/france/castelclara-morbihan-bangor","referrerPolicy":"origin-when-cross-origin","body":null,"method":"GET","mode":"cors"})).json();
-			if(jsonO['2019-3'].minimumStay['3'] == undefined) console.log('success');
-		})();
-
-	 // console.log(await response.json());
-		/*
-		var id = $('.ajaxPages').find('#tabProperty').attr('data-gtm-datalayer');
-		var index = id.indexOf("synxis_id");
-		var indexComma = id.indexOf(",", index + 11 );
-		id = id.substring(index + 11, indexComma);
-		
-		console.log(id);
-		//console.log(id.match('"synxis_id":(.*),'));
-		
-		var name = $('picture > img',html).attr('alt');
-		var star = $('title',html).first().text();
-		
-		if(star.includes('1 étoile')) star = '1 étoile';
-		if(star.includes('2 étoiles')) star = '2 étoiles';
-		if(star.includes('3 étoiles')) star = '3 étoiles';
-		
-		var obj = {name: name, star: star};
-		hotels.push(obj);
-		console.log(hotels);
-		
-		fs.writeFile('hotels.json', JSON.stringify(hotels, null, 4), function(err){
-
-				console.log('File successfully written! - Check your project directory for the output.json file');
-
-				})
-		*/
-		
-		
-	//});
-	
-}
-
-//checkHotRest();
-
 // Function that returns JSON of starred hotel restaurant.
 async function check(){
 	var hotels = [];
